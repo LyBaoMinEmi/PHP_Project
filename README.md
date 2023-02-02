@@ -3,7 +3,7 @@
 
 ## Description of the Project
 This project is written in PHP and CSS and was developed by a team of two people. It creates a shopping website where the client can select products, add them to a shopping cart, and view a list of their selected items with the corresponding costs.
-The user must sign up if they do not already have an account. Once the sign-up process is completed, the user can choose to continue shopping or not.
+The client must sign up if they do not already have an account. Once the sign-up process is completed, the user can choose to continue shopping or not.
 
 ## Instruction
 To run this project, follow these steps:
