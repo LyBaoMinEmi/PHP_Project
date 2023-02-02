@@ -7,9 +7,9 @@ The user must sign up if they do not already have an account. Once the sign-up p
 
 ## Introduction
 To run this project, follow these steps:
-Step 1: Start XAMPP
-Step 2: Save all folders in C:\xampp\htdocs\PHP_Project
-Step 3: Import the file "syp_shopping_1.sql" into the database "syp_shopping_1" through http://localhost/phpmyadmin/
-Step 4: Access the project at http://localhost/PHP_Project/einkauf.php"
+- Step 1: Start XAMPP
+- Step 2: Save all folders in C:\xampp\htdocs\PHP_Project
+- Step 3: Import the file "syp_shopping_1.sql" into the database "syp_shopping_1" through http://localhost/phpmyadmin/
+- Step 4: Access the project at http://localhost/PHP_Project/einkauf.php"
 
  
